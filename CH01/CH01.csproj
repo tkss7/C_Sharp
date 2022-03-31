@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BoxingUnBoxing.cs" />
+    <Compile Remove="ConsoleInput.cs" />
+    <Compile Remove="ConsoleOutput.cs" />
+    <Compile Remove="Enumeration.cs" />
+    <Compile Remove="NULLable.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="Program2.cs" />
+    <Compile Remove="SimpleType1.cs" />
+    <Compile Remove="SimPleType2.cs" />
+    <Compile Remove="Test1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="BoxingUnBoxing.cs" />
+    <None Include="ConsoleInput.cs" />
+    <None Include="ConsoleOutput.cs" />
+    <None Include="Enumeration.cs" />
+    <None Include="NULLable.cs" />
+    <None Include="Program.cs" />
+    <None Include="Program2.cs" />
+    <None Include="SimpleType1.cs" />
+    <None Include="SimPleType2.cs" />
+    <None Include="Test1.cs" />
+  </ItemGroup>
+
+</Project>
