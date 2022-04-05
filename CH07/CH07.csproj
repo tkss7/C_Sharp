@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Abstract_Class.cs" />
     <Compile Remove="BankMain.cs" />
     <Compile Remove="Bank_Class.cs" />
     <Compile Remove="BaseAndDerived.cs" />
@@ -22,9 +23,11 @@
     <Compile Remove="Nested_Class.cs" />
     <Compile Remove="ObjectTypeCast.cs" />
     <Compile Remove="Struct1.cs" />
+    <Compile Remove="Virtual_Class.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Abstract_Class.cs" />
     <None Include="BankMain.cs" />
     <None Include="Bank_Class.cs" />
     <None Include="BaseAndDerived.cs" />
@@ -41,6 +44,7 @@
     <None Include="Nested_Class.cs" />
     <None Include="ObjectTypeCast.cs" />
     <None Include="Struct1.cs" />
+    <None Include="Virtual_Class.cs" />
   </ItemGroup>
 
 </Project>

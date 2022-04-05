@@ -1,0 +1,16 @@
+C:\Users\dltkd\Desktop\C_Sharp\CH08\bin\Debug\net5.0\CH08.exe
+C:\Users\dltkd\Desktop\C_Sharp\CH08\bin\Debug\net5.0\CH08.deps.json
+C:\Users\dltkd\Desktop\C_Sharp\CH08\bin\Debug\net5.0\CH08.runtimeconfig.json
+C:\Users\dltkd\Desktop\C_Sharp\CH08\bin\Debug\net5.0\CH08.runtimeconfig.dev.json
+C:\Users\dltkd\Desktop\C_Sharp\CH08\bin\Debug\net5.0\CH08.dll
+C:\Users\dltkd\Desktop\C_Sharp\CH08\bin\Debug\net5.0\ref\CH08.dll
+C:\Users\dltkd\Desktop\C_Sharp\CH08\bin\Debug\net5.0\CH08.pdb
+C:\Users\dltkd\Desktop\C_Sharp\CH08\obj\Debug\net5.0\CH08.csproj.AssemblyReference.cache
+C:\Users\dltkd\Desktop\C_Sharp\CH08\obj\Debug\net5.0\CH08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dltkd\Desktop\C_Sharp\CH08\obj\Debug\net5.0\CH08.AssemblyInfoInputs.cache
+C:\Users\dltkd\Desktop\C_Sharp\CH08\obj\Debug\net5.0\CH08.AssemblyInfo.cs
+C:\Users\dltkd\Desktop\C_Sharp\CH08\obj\Debug\net5.0\CH08.csproj.CoreCompileInputs.cache
+C:\Users\dltkd\Desktop\C_Sharp\CH08\obj\Debug\net5.0\CH08.dll
+C:\Users\dltkd\Desktop\C_Sharp\CH08\obj\Debug\net5.0\ref\CH08.dll
+C:\Users\dltkd\Desktop\C_Sharp\CH08\obj\Debug\net5.0\CH08.pdb
+C:\Users\dltkd\Desktop\C_Sharp\CH08\obj\Debug\net5.0\CH08.genruntimeconfig.cache

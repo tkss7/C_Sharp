@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\r2com\\.nuget\\packages\\": {},
+    "C:\\Users\\dltkd\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C_Sharp\\CH01\\CH01.csproj",
+      "projectUniqueName": "C:\\Users\\dltkd\\Desktop\\C_Sharp\\CH01\\CH01.csproj",
       "projectName": "CH01",
-      "projectPath": "D:\\C_Sharp\\CH01\\CH01.csproj",
-      "packagesPath": "C:\\Users\\r2com\\.nuget\\packages\\",
-      "outputPath": "D:\\C_Sharp\\CH01\\obj\\",
+      "projectPath": "C:\\Users\\dltkd\\Desktop\\C_Sharp\\CH01\\CH01.csproj",
+      "packagesPath": "C:\\Users\\dltkd\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dltkd\\Desktop\\C_Sharp\\CH01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\r2com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dltkd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

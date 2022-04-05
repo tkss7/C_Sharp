@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="MemoryAllocation.cs" />
+    <Compile Remove="MethodOverloading.cs" />
+    <Compile Remove="MethodParameter.cs" />
+    <Compile Remove="ParamParameter.cs" />
+    <Compile Remove="PassingParameter.cs" />
+    <Compile Remove="Test2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="MethodOverloading.cs" />
+    <None Include="MethodParameter.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="MemoryAllocation.cs" />
+    <None Include="ParamParameter.cs" />
+    <None Include="PassingParameter.cs" />
+    <None Include="Test2.cs" />
+  </ItemGroup>
+
+</Project>

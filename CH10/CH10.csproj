@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ArrayProperties.cs" />
+    <Compile Remove="Array_Intro.cs" />
+    <Compile Remove="Array_jagged배열.cs" />
+    <Compile Remove="Array_MenberMethod.cs" />
+    <Compile Remove="Array_StaticMethod.cs" />
+    <Compile Remove="Array_초기화.cs" />
+    <Compile Remove="OneArray.cs" />
+    <Compile Remove="PassingArray.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="ReturnArray.cs" />
+    <Compile Remove="Test3.cs" />
+    <Compile Remove="Test4.cs" />
+    <Compile Remove="TwoArray.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ArrayProperties.cs" />
+    <None Include="Array_Intro.cs" />
+    <None Include="Array_jagged배열.cs" />
+    <None Include="Array_MenberMethod.cs" />
+    <None Include="Array_StaticMethod.cs" />
+    <None Include="Array_초기화.cs" />
+    <None Include="OneArray.cs" />
+    <None Include="PassingArray.cs" />
+    <None Include="ReturnArray.cs" />
+    <None Include="Test3.cs" />
+    <None Include="Test4.cs" />
+    <None Include="TwoArray.cs" />
+  </ItemGroup>
+
+</Project>

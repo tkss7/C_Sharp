@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="BoxingUnBoxing.cs" />
     <Compile Remove="ConsoleInput.cs" />
     <Compile Remove="ConsoleOutput.cs" />
     <Compile Remove="Enumeration.cs" />
@@ -20,7 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="BoxingUnBoxing.cs" />
     <None Include="ConsoleInput.cs" />
     <None Include="ConsoleOutput.cs" />
     <None Include="Enumeration.cs" />
