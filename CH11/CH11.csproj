@@ -5,4 +5,36 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="ArrayList.cs" />
+    <Compile Remove="GenericClass_Intro.cs" />
+    <Compile Remove="GenericDictionarycs.cs" />
+    <Compile Remove="GenericQueue.cs" />
+    <Compile Remove="GenericStack.cs" />
+    <Compile Remove="Generic_Class_Indexer.cs" />
+    <Compile Remove="Generic_List.cs" />
+    <Compile Remove="Generic_Method.cs" />
+    <Compile Remove="HashTable.cs" />
+    <Compile Remove="형식매개변수_제약.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="GenericDictionarycs.cs" />
+    <None Include="GenericQueue.cs" />
+    <None Include="GenericStack.cs" />
+    <None Include="Generic_List.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ArrayList.cs" />
+    <None Include="Generic_Method.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="GenericClass_Intro.cs" />
+    <None Include="Generic_Class_Indexer.cs" />
+    <None Include="HashTable.cs" />
+    <None Include="형식매개변수_제약.cs" />
+  </ItemGroup>
+
 </Project>

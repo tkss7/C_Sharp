@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = myPersonDll
+build_property.ProjectDir = D:\C_Sharp\myPersonDll\

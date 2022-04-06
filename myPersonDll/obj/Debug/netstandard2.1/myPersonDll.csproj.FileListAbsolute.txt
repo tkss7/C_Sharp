@@ -1,0 +1,10 @@
+D:\C_Sharp\myPersonDll\bin\Debug\netstandard2.1\myPersonDll.deps.json
+D:\C_Sharp\myPersonDll\bin\Debug\netstandard2.1\myPersonDll.dll
+D:\C_Sharp\myPersonDll\bin\Debug\netstandard2.1\myPersonDll.pdb
+D:\C_Sharp\myPersonDll\obj\Debug\netstandard2.1\myPersonDll.csproj.AssemblyReference.cache
+D:\C_Sharp\myPersonDll\obj\Debug\netstandard2.1\myPersonDll.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\myPersonDll\obj\Debug\netstandard2.1\myPersonDll.AssemblyInfoInputs.cache
+D:\C_Sharp\myPersonDll\obj\Debug\netstandard2.1\myPersonDll.AssemblyInfo.cs
+D:\C_Sharp\myPersonDll\obj\Debug\netstandard2.1\myPersonDll.csproj.CoreCompileInputs.cache
+D:\C_Sharp\myPersonDll\obj\Debug\netstandard2.1\myPersonDll.dll
+D:\C_Sharp\myPersonDll\obj\Debug\netstandard2.1\myPersonDll.pdb

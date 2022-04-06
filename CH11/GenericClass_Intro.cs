@@ -42,9 +42,9 @@ namespace CH11
         static void Main(string[] args)
         {
             intClass num = new intClass(100);
-            Console.WriteLine("num : {0}", num);
+            Console.WriteLine("num : {0}", num.Value);
             num.Value = 200;
-            Console.WriteLine("num : {0}", num);
+            Console.WriteLine("num : {0}", num.Value);
             Console.WriteLine("=================================");
 
             GenericClass<int> gInt = new GenericClass<int>(200);
